@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 28dd4be5e1a1ff344869e1297ddc8dc0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone003
+    100004: Bone005
+    100006: Bone007
+    100008: Bone009
+    100010: Bone011
+    100012: Bone013
+    100014: Bone015
+    100016: //RootNode
+    100018: Cylinder002
+    100020: Cylinder004
+    100022: Cylinder005
+    100024: Cylinder006
+    100026: Cylinder007
+    100028: Cylinder008
+    100030: Cylinder009
+    100032: Cylinder010
+    100034: Cylinder011
+    100036: Cylinder012
+    400000: Bone001
+    400002: Bone003
+    400004: Bone005
+    400006: Bone007
+    400008: Bone009
+    400010: Bone011
+    400012: Bone013
+    400014: Bone015
+    400016: //RootNode
+    400018: Cylinder002
+    400020: Cylinder004
+    400022: Cylinder005
+    400024: Cylinder006
+    400026: Cylinder007
+    400028: Cylinder008
+    400030: Cylinder009
+    400032: Cylinder010
+    400034: Cylinder011
+    400036: Cylinder012
+    2300000: Cylinder002
+    2300002: Cylinder005
+    3300000: Cylinder002
+    3300002: Cylinder005
+    4300000: Cylinder002
+    4300002: Cylinder004
+    4300004: Cylinder005
+    4300006: Cylinder006
+    4300008: Cylinder007
+    4300010: Cylinder008
+    4300012: Cylinder009
+    4300014: Cylinder010
+    4300016: Cylinder011
+    4300018: Cylinder012
+    7400000: Kick
+    7400002: Charge
+    9500000: //RootNode
+    13700000: Cylinder004
+    13700002: Cylinder006
+    13700004: Cylinder007
+    13700006: Cylinder008
+    13700008: Cylinder009
+    13700010: Cylinder010
+    13700012: Cylinder011
+    13700014: Cylinder012
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Kick
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone003
+        weight: 1
+      - path: Bone005
+        weight: 1
+      - path: Bone007
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone011
+        weight: 1
+      - path: Bone013
+        weight: 1
+      - path: Bone015
+        weight: 1
+      - path: Cylinder002
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder005
+        weight: 1
+      - path: Cylinder006
+        weight: 1
+      - path: Cylinder007
+        weight: 1
+      - path: Cylinder008
+        weight: 1
+      - path: Cylinder009
+        weight: 1
+      - path: Cylinder010
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Charge
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone003
+        weight: 1
+      - path: Bone005
+        weight: 1
+      - path: Bone007
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone011
+        weight: 1
+      - path: Bone013
+        weight: 1
+      - path: Bone015
+        weight: 1
+      - path: Cylinder002
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder005
+        weight: 1
+      - path: Cylinder006
+        weight: 1
+      - path: Cylinder007
+        weight: 1
+      - path: Cylinder008
+        weight: 1
+      - path: Cylinder009
+        weight: 1
+      - path: Cylinder010
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
